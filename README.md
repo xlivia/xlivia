@@ -11,22 +11,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### Hi there 👋
 
 ## Skills
-
 **Proficient:** JavaScript, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, HTML, CSS
-
 **Competent:** Java
 
 ## Professional Experiences
-
 **Software Developer, Jarvis (March 2023-present)**: Developer Training in Linux, SQL, Java
 
 ## Education
-
 **University of Guelph (2018-2022)**, Bachelor of Computing, Computer Science
-
 **University of Toronto (February 2023 - July 2023)**, Data Analytics Bootcamp
+-->
+
+### Hi there 👋
