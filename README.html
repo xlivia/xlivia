@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GitHub Profile</title>
+  <style>
+    /* CSS styles for the content */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f1f1f1;
+      margin: 0;
+      padding: 20px;
+    }
+    
+    h1 {
+      color: #333;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    
+    h2 {
+      color: #555;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    
+    p {
+      color: #666;
+      font-size: 14px;
+      margin: 5px 0;
+    }
+    
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    
+    li {
+      margin-bottom: 5px;
+    }
+    
+    /* CSS styles for animations */
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    .animated {
+      animation-duration: 1s;
+      animation-fill-mode: both;
+    }
+    
+    .fade-in {
+      animation-name: fadeIn;
+    }
+  </style>
+</head>
+<body>
+
+  <h2 class="animated fade-in">EDUCATION</h2>
+  <p class="animated fade-in">University of Guelph</p>
+  <p class="animated fade-in">Graduated Oct. 2022</p>
+  <p class="animated fade-in">Computer Science</p>
+  
+  <h2 class="animated fade-in">PERSONAL PROJECTS</h2>
+  <ul class="animated fade-in">
+    <li>Middleware CRUD MongoDB Database Web App</li>
+    <li>IP Geolocation Web App</li>
+    <li>Real-Time Chatroom Web App</li>
+  </ul>
+  
+  <h2 class="animated fade-in">TECHNICAL SKILLS</h2>
+  <ul class="animated fade-in">
+    <li>Programming languages: Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js</li>
+    <li>Frameworks & Libraries: NumPy, Pandas, Matplotlib, Flask, Express.js, Socket.io, jQuery, Bootstrap, Leaflet.js</li>
+    <li>Database Technologies: MySQL, PostgreSQL, MongoDB, SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying
+    <li>Web Technologies: AJAX, API Development, Geomapping, Cross Origin Resource Sharing (CORS), Flask, Ember.js</li>
+    <li>Skills & Techniques: Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Financial pricing models, Derivative product valuation, Troubleshooting, Quick Working</li>
+  </ul>
+  
+  <script>
+    // Add animation classes to elements after the page loads
+    document.addEventListener('DOMContentLoaded', function() {
+      var animatedElements = document.querySelectorAll('.animated');
+      animatedElements.forEach(function(element) {
+        element.classList.add('fade-in');
+      });
+    });
+  </script>
+</body>
+</html>
