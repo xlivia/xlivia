@@ -1,92 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Profile</title>
+  <title>Dancing Unicorn Animation</title>
   <style>
-    /* CSS styles for the content */
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f1f1f1;
-      margin: 0;
-      padding: 20px;
+    /* CSS for the unicorn */
+    .unicorn {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      animation-name: dance;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
     }
     
-    h1 {
-      color: #333;
-      font-size: 24px;
-      margin-bottom: 10px;
-    }
-    
-    h2 {
-      color: #555;
-      font-size: 18px;
-      margin-bottom: 10px;
-    }
-    
-    p {
-      color: #666;
-      font-size: 14px;
-      margin: 5px 0;
-    }
-    
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-    
-    li {
-      margin-bottom: 5px;
-    }
-    
-    /* CSS styles for animations */
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    
-    .animated {
-      animation-duration: 1s;
-      animation-fill-mode: both;
-    }
-    
-    .fade-in {
-      animation-name: fadeIn;
+    /* Keyframes for the animation */
+    @keyframes dance {
+      0% { transform: translate(-50%, -50%) rotate(0deg); }
+      25% { transform: translate(-50%, -50%) rotate(-20deg); }
+      50% { transform: translate(-50%, -50%) rotate(0deg); }
+      75% { transform: translate(-50%, -50%) rotate(20deg); }
+      100% { transform: translate(-50%, -50%) rotate(0deg); }
     }
   </style>
 </head>
 <body>
+  <div class="unicorn">
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+      <path fill="#ffccbb" d="M 24 3 C 14.47 3 7 10.47 7 19 C 7 28 24 45 24 45 C 24 45 41 28 41 19 C 41 10.47 33.53 3 24 3 Z"></path>
+      <path fill="#ffffff" d="M 24 6 C 16.28 6 10 12.28 10 20 C 10 27.72 16.28 34 24 34 C 31.72 34 38 27.72 38 20 C 38 12.28 31.72 6 24 6 Z"></path>
+      <path fill="#ffccbb" d="M 15 35 L 16 37 L 14 37 L 15 39 L 16 37 L 18 39 L 15 39 L 16 41 L 18 39 L 19 41 L 16 41 L 17 43 L 19 41 L 20 43 L 17 43 L 18 45 L 20 43 L 22 45 L 18 45 L 19 47 L 22 45 L 24 47 L 19 47 L 20 49 L 24 47 L 26 49 L 20 49 L 21 51 L 26 49 L 28 51 L 21 51 L 22 53 L 28 51 L 30 53 L 22 53 L 23 55 L 30 53 L 32 55 L 23 55 L 24 57 L 32 55 L 34 57 L 24 57 L 25 59 L 34 57 L 36 59 L 25 59 L 27 61 L 36 59 L 38 61 L 27 61 L 29 63 L 38 61 L 40 63 L 29 63 L 31 65 L 40 63 L 42 65 L 31 65 L 33 67 L 42 65 L 44 67 L 33 67 L 35 69 L 44 67 L 46 69 L 35 69 L 37 71 L 46 69 L 48 71 L 37 71 L 39 73 L 48 71 L 49 73 L 39 73 L 41 75 L 49 73 L 51 75 L 41 75 L 43 77 L 51 75 L 53 77 L 43 77 L 45 79 L 53 77 L 55 79 L 45 79 L 47 81 L 55 79 L 57 81 L 47 81 L 49 83 L 57 81 L 59 83 L 49 83 L 51 85 L 59 83 L 61 85 L 51 85 L 53 87 L 61 85 L 62 87 L 53 87 L 54 88 L 62 87 L 63 88 L 54 88 L 54 86 L 63 88 L 63 86 L 54 86 Z"></path>
+    </svg>
+  </div>
 
-  <h2 class="animated fade-in">EDUCATION</h2>
-  <p class="animated fade-in">University of Guelph</p>
-  <p class="animated fade-in">Graduated Oct. 2022</p>
-  <p class="animated fade-in">Computer Science</p>
-  
-  <h2 class="animated fade-in">PERSONAL PROJECTS</h2>
-  <ul class="animated fade-in">
-    <li>Middleware CRUD MongoDB Database Web App</li>
-    <li>IP Geolocation Web App</li>
-    <li>Real-Time Chatroom Web App</li>
-  </ul>
-  
-  <h2 class="animated fade-in">TECHNICAL SKILLS</h2>
-  <ul class="animated fade-in">
-    <li>Programming languages: Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js</li>
-    <li>Frameworks & Libraries: NumPy, Pandas, Matplotlib, Flask, Express.js, Socket.io, jQuery, Bootstrap, Leaflet.js</li>
-    <li>Database Technologies: MySQL, PostgreSQL, MongoDB, SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying
-    <li>Web Technologies: AJAX, API Development, Geomapping, Cross Origin Resource Sharing (CORS), Flask, Ember.js</li>
-    <li>Skills & Techniques: Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Financial pricing models, Derivative product valuation, Troubleshooting, Quick Working</li>
-  </ul>
-  
   <script>
-    // Add animation classes to elements after the page loads
-    document.addEventListener('DOMContentLoaded', function() {
-      var animatedElements = document.querySelectorAll('.animated');
-      animatedElements.forEach(function(element) {
-        element.classList.add('fade-in');
-      });
-    });
+    // JavaScript code can go here if needed
   </script>
 </body>
 </html>
