@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Jarvis Consulting Developer Stream Projects
 - 🌱 I’m currently learning ... Software Development
 - ⚡ Fun fact: In my freetime I enjoy coding, reading, gaming, soccer, swimming
+
+[Click here to view my GitHub Profile](./README.html)
