@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">👩‍💻🌟💻 Jarvis Developer Training 👨‍💻🌟💻</h1>
 
+<br>
+
 <h2 align="center">👤 Olivia Bryant 👤</h2>
 
 <p align="center">
