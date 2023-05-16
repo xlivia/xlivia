@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">👩‍💻 Jarvis Developer Training 👨‍💻</h1>
+<h1 align="center">👩‍💻🌟💻 Jarvis Developer Training 👨‍💻🌟💻</h1>
 
 <p align="center">
   👤 Olivia Bryant 👤
@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together! 🚀✨
+  From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧
+</p>
+
+<p align="center">
+  From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together! 🌟🚀✨
 </p>
 
 ## 🔧 Skills
