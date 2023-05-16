@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together! 🌟🚀✨
 </p>
 
+<br>
 ## 🔧 Skills
 
 **Programming languages:** Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js, Linux/Bash, Git
@@ -48,52 +49,61 @@ Here are some ideas to get you started:
 
 **Skills & Techniques:** Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Troubleshooting, Quick Working, Agile/Scrum
 
+<br>
 ## 🚀 Projects
 
+<br>
 ### 1. Linux Cluster Monitoring Agent (Linux and SQL) ✅
-![🖥️📊](./linux_sql)
+[🖥️📊](./linux_sql)
 
 I developed a Linux Cluster Monitoring Agent with RDBMS and SQL, showcasing my skills in system monitoring, database management, and SQL optimization. This application efficiently collects real-time metrics from a Linux cluster, stores them in an RDBMS, and allows for insightful analysis and reporting. I honed my expertise in Linux system administration, data modeling, and query optimization. This project emphasizes scalability, fault tolerance, and security, providing a valuable tool for managing and optimizing large-scale cluster environments.
 
+<br>
 ### 2. Core Java Apps ✅
-![☕📱](./core_java)
+[☕📱](./core_java)
 
 - **Twitter App**: I created a Core Java Twitter application that highlights my skills in API integration, real-time data handling, and user interface design. This app seamlessly interacts with the Twitter API, allowing users to search tweets, display real-time streams, post tweets, and interact with user profiles. I focused on creating a user-friendly interface and enhancing user experience with real-time updates and customizable display options.
 - **JDBC App**: I developed a Core Java JDBC app that demonstrates my skills in working with databases. This application allows users to interact with a database by performing CRUD operations and retrieving specific data efficiently. Through this project, I enhanced my knowledge of SQL queries, database schema design, and data modeling.
 - **Grep App**: I built a Core Java Grep application that showcases my expertise in file handling, text parsing, and pattern matching. This app efficiently searches for specific patterns within files and provides users with valuable insights. It utilizes Java's file I/O capabilities, employs multi-threading techniques for faster execution, and enables users to customize search options.
 
+<br>
 ### 3. Springboot Trading REST API 🚧
-![🌱💼](./springboot)
+[🌱💼](./springboot)
 
 Not Started
 
+<br>
 ### 4. Hadoop/Hive 🚧
-![🐘🐝](./hadoop)
+[🐘🐝](./hadoop)
 
 Not Started
 
+<br>
 ### 5. Spark/Scala 🚧
-![⚡🚀](./spark)
+[⚡🚀](./spark)
 
 Not Started
 
+<br>
 ### 6. Cloud/DevOps 🚧
-![☁️🔧](./cloud_devops)
+[☁️🔧](./cloud_devops)
 
 Not Started
 
+<br>
 ## 👩‍💼 Professional Experience
 
 **Software Developer, Jarvis (March 2023-present)**
 - Description of your role and responsibilities
 
+<br>
 ## 🎓 Education
 
-- **University of Guelph (2018-2022)**, Bachelor of Computing
-  - Computer Science
+- **University of Guelph (2018-2022)**, Bachelor of Computing, Computer Science
 
 - **University of Toronto (February 2023 - July 2023)**, Data Analytics Bootcamp
 
+<br>
 ## 🌟 Miscellaneous
 
 - Swimming Instructor, 2018-2022
