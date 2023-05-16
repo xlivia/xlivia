@@ -86,16 +86,22 @@ Not Started
 
 Not Started
 
+<br>
+
 ## 👩‍💼 Professional Experience
 
 **Software Developer, Jarvis (March 2023-present)**
 - Description of your role and responsibilities
+
+<br>
 
 ## 🎓 Education
 
 - **University of Guelph (2018-2022)**, Bachelor of Computing, Computer Science
 
 - **University of Toronto (February 2023 - July 2023)**, Data Analytics Bootcamp
+
+<br>
 
 ## 🌟 Miscellaneous
 
