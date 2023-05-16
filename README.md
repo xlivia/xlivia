@@ -93,7 +93,7 @@ Not Started
 ## 👩‍💼 Professional Experience
 
 **Software Developer, Jarvis (March 2023-present)**
-- Description of your role and responsibilities
+  - As a Software Developer, I am responsible for completing a variety of projects as part of my training to become a skilled software developer. With a strong focus on web development, database management, and IT support, I am honing my technical skills and delivering high-quality solutions. Joining Jarvis Consulting has provided me with valuable hands-on experience and the opportunity to contribute to real-world projects.
 
 <br>
 
