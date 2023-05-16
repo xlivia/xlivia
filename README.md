@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">👩‍💻🌟💻 Jarvis Developer Training 👨‍💻🌟💻</h1>
 
-<p align="center">
-  👤 Olivia Bryant 👤
-</p>
+<h2 align="center">👤 Olivia Bryant 👤</h2>
 
 <p align="center">
   Welcome to my GitHub profile! I'm Olivia Bryant, a software developer with a Bachelor of Computing in Computer Science. 🌟💻
