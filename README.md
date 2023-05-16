@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 
 ### 1. Linux Cluster Monitoring Agent (Linux and SQL) ✅
 [🖥️📊](./linux_sql)
-
 I developed a Linux Cluster Monitoring Agent with RDBMS and SQL, showcasing my skills in system monitoring, database management, and SQL optimization. This application efficiently collects real-time metrics from a Linux cluster, stores them in an RDBMS, and allows for insightful analysis and reporting. I honed my expertise in Linux system administration, data modeling, and query optimization. This project emphasizes scalability, fault tolerance, and security, providing a valuable tool for managing and optimizing large-scale cluster environments.
 
 ### 2. Core Java Apps ✅
