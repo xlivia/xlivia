@@ -12,13 +12,72 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Jarvis Consulting Developer Stream Projects
 - 🌱 I’m currently learning ... Software Development
 - ⚡ Fun fact: In my freetime I enjoy coding, reading, gaming, soccer, swimming
+
+-->
+
+# Hi there! 👋
+
+Welcome to my GitHub profile! I'm Olivia, a passionate Software Development with a love for coding and creating amazing things.
+I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻
+From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧
+Here's a glimpse into my world:
+
+## 💻 Technologies I Love
+
+Here are some of the technologies I enjoy working with:
+
+- Programming Languages: Python 🐍, JavaScript 🌐, Java ☕, C 📜, VBA 📝
+- Web Development: HTML 📄, CSS 🎨, jQuery 🕹️, Angular 🅰️, Bootstrap 🎩, Flask 🌶️, Express.js 🚂, Ember.js 🔥
+- Database: SQL 📊, MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, Oracle 🏛️, Database Design & Querying 🗃️
+- Data Analysis: NumPy 🧮, Pandas 🐼, Matplotlib 📊, Data Analysis & Interpretation 📈
+- DevOps: Docker 🐳, Git 🌿, RDBMS/SQL 🔢, API Development 🌐, AJAX 🔄, Cross-Origin Resource Sharing (CORS) 🌍
+- Other: Linux/Bash 🐧, Socket.io 🔌, Leaflet.js 🍃, Geomapping 🗺️
+
+And many more! These are just a few of the technologies I enjoy working with and continue to explore in my projects.
+
+## 🚀 Projects I'm Proud Of
+
+- [Data Analytics](https://github.com/xlivia/challenge-uploads): This started as a school project, but I updated it with more functionality.
+- [Middleware](https://github.com/xlivia/middleware): This started as a school project, but I updated it with more functionality.
+- [ipGeolocation](https://github.com/xlivia/ipGeolocation): This started as a school project, but I updated it with more functionality.
+
+## 🌱 Currently Learning
+
+I'm always hungry for knowledge and expanding my skill set. Currently, I'm diving deep into:
+
+- Machine Learning 🤖
+- DevOps and CI/CD 🚀
+- Blockchain Technology ⛓️
+- SQL 📊
+- Tableau 📈
+- Pandas 🐼
+- NumPy 🧮
+- Data Visualization 📊
+- Java ☕
+- C# #️⃣
+- Git 🌿
+- Agile Methodology 🔄
+- RESTful APIs 🌐
+
+## ⚡ Fun Facts
+
+- 💻 I enjoy coding and exploring new technologies to expand my horizons.
+- 📚 Reading is my favorite pastime, and I love getting lost in captivating stories.
+- 🎮 Gaming is my way of relaxing and immersing myself in virtual adventures.
+- ⚽ I'm a soccer enthusiast and love playing and watching matches.
+- 🏊 Swimming is my go-to activity for staying fit and rejuvenating my mind.
+- 📸 Photography is my passion, and I love capturing beautiful moments.
+
+## 📫 Let's Connect
+
+I'm always excited to connect with fellow developers and tech enthusiasts.
+
+Let's collaborate, innovate, and make the world a better place through code! ✨
 
 <!--
 
