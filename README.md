@@ -65,11 +65,13 @@ I'm always hungry for knowledge and expanding my skill set. Currently, I'm divin
 - 🏊 Swimming is my go-to activity for staying fit and rejuvenating my mind.
 - 📸 Photography is my passion, and I love capturing beautiful moments.
 
+<!--
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow developers and tech enthusiasts.
 
 Let's collaborate, innovate, and make the world a better place through code! ✨
+-->
 
 <!--
 
