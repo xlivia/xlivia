@@ -50,19 +50,9 @@ And many more! These are just a few of the technologies I enjoy working with and
 
 I'm always hungry for knowledge and expanding my skill set. Currently, I'm diving deep into:
 
-- Machine Learning 🤖
-- DevOps and CI/CD 🚀
-- Blockchain Technology ⛓️
-- SQL 📊
-- Tableau 📈
-- Pandas 🐼
-- NumPy 🧮
-- Data Visualization 📊
-- Java ☕
-- C# #️⃣
-- Git 🌿
-- Agile Methodology 🔄
-- RESTful APIs 🌐
+- Machine Learning 🤖, DevOps and CI/CD 🚀, Blockchain Technology ⛓️
+- SQL 📊, Tableau 📈, Pandas 🐼, NumPy 🧮, Data Visualization 📊
+- Java ☕, C# #️⃣, Git 🌿, Agile Methodology 🔄, RESTful APIs 🌐
 
 ## ⚡ Fun Facts
 
