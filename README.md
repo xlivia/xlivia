@@ -40,11 +40,13 @@ Here are some of the technologies I enjoy working with:
 
 And many more! These are just a few of the technologies I enjoy working with and continue to explore in my projects.
 
+<!--
 ## 🚀 Projects I'm Proud Of
 
 - [Data Analytics](https://github.com/xlivia/challenge-uploads): This started as a school project, but I updated it with more functionality.
 - [Middleware](https://github.com/xlivia/middleware): This started as a school project, but I updated it with more functionality.
 - [ipGeolocation](https://github.com/xlivia/ipGeolocation): This started as a school project, but I updated it with more functionality.
+-->
 
 ## 🌱 Currently Learning
 
