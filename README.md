@@ -53,7 +53,7 @@ Data Analyst | Web Developer | Swimming Instructor | Software Developer
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. With a diverse skill set and a strong drive for learning, I strive to create meaningful projects and contribute to the open-source community. Feel free to explore my repositories and reach out for collaboration opportunities. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. I have a diverse skill set and a strong drive for learning. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
 
 ## Skills
 - Data Analysis: Python 🐍, SQL 📊, Excel, Pandas 🐼, Matplotlib 📊, NumPy 🧮, Data Analysis & Interpretation 📈, Tableau 📈, Data Visualization 📊
