@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm Olivia, a passionate Software Developer with a
 
 ## 💻 Technologies I Love
 
-- Programming Languages: Python 🐍, JavaScript 🌐, Java ☕, C 📜, VBA 📝, SQL 📊, Tableau 📈, Pandas 🐼, NumPy 🧮, Data Visualization 📊
+- Programming Languages: Python 🐍, JavaScript 🌐, Java ☕, C 📜, VBA 📝,
 - Web Development: HTML 📄, CSS 🎨, jQuery 🕹️, Angular 🅰️, Bootstrap 🎩, Flask 🌶️, Express.js 🚂, Ember.js 🔥
 - Database: SQL 📊, MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, Oracle 🏛️, Database Design & Querying 🗃️
-- Data Analysis: NumPy 🧮, Pandas 🐼, Matplotlib 📊, Data Analysis & Interpretation 📈
+- Data Analysis: NumPy 🧮, Pandas 🐼, Matplotlib 📊, Data Analysis & Interpretation 📈, Tableau 📈, Data Visualization 📊
 - DevOps: Docker 🐳, Git 🌿, RDBMS/SQL 🔢, API Development 🌐, AJAX 🔄, Cross-Origin Resource Sharing (CORS) 🌍
 - Other: Linux/Bash 🐧, Socket.io 🔌, Leaflet.js 🍃, Geomapping 🗺️
 
