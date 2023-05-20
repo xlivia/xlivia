@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Olivia, a passionate Software Developer with a love for coding and creating amazing things. I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science, and I love coding and creating amazing things. 🌟💻 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
 
 ## 💻 Technologies I Love
 
