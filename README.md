@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a software developer with a Bachelor of Compu
 
 # Hi there! 👋
 
-## ⚡ Fun Facts
+### ⚡ Fun Facts
 
 - 💻 I enjoy coding and exploring new technologies to expand my horizons.
 - 📚 Reading is my favorite pastime, and I love getting lost in captivating stories.
