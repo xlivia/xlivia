@@ -65,8 +65,3 @@ Welcome to my GitHub profile! I am a software developer with a Bachelor of Compu
 - Problem-Solving: Analytical skills, Debugging, Troubleshooting
 - Collaboration: Communication, Teamwork, Project Management
 - Self-Motivated: Quick Learner, Proactive, Results-Oriented
-
-## Projects
-- **Middleware CRUD MongoDB Database Web App:** Built a full-stack web app using MongoDB, HTML, CSS, JavaScript, and Express.js to create, list, and delete items from a database. Utilized AJAX and jQuery for efficient data processing and implemented a user-friendly interface with responsive design using Bootstrap and CSS.
-- **IP Geolocation Web App:** Developed an IP geolocation web app using HTML, CSS, JavaScript, Bootstrap, OpenStreetMap, Leaflet, and ipFind API, showcasing proficiency in front-end web development, APIs integration, and data visualization.
-- **Real-Time Chatroom Web App:** Developed a real-time chatroom web app using HTML, CSS, JavaScript, and Socket.io, featuring a simple interface with a login prompt and Socket.io integration for efficient messaging.
