@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. With a diverse skill set and a strong drive for learning, I strive to create meaningful projects and contribute to the open-source community. Feel free to explore my repositories and reach out for collaboration opportunities. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
 
 - 🔭 I’m currently working on ... Jarvis Consulting Developer Stream Projects
 - 🌱 I’m currently learning ... Software Development
@@ -35,33 +35,33 @@ Welcome to my GitHub profile! I am a software developer with a Bachelor of Compu
 
 Data Analyst | Web Developer | Swimming Instructor | Software Developer
 
-Welcome to my GitHub profile! I'm passionate about data analysis, web development, and software development. With a diverse skill set and a strong drive for learning, I strive to create meaningful projects and contribute to the open-source community. Feel free to explore my repositories and reach out for collaboration opportunities.
-
-## Skills
-Data Analysis: Python, SQL, Excel, Pandas, Matplotlib
-Web Development: HTML, CSS, JavaScript, Flask
-Database: MySQL, PostgreSQL, MongoDB
-Software Development: Python, VBA, Git
-Problem-Solving: Analytical skills, Debugging, Troubleshooting
-Collaboration: Communication, Teamwork, Project Management
-Self-Motivated: Quick Learner, Proactive, Results-Oriented
-
-## Projects
-**Middleware CRUD MongoDB Database Web App:** Built a full-stack web app using MongoDB, HTML, CSS, JavaScript, and Express.js to create, list, and delete items from a database. Utilized AJAX and jQuery for efficient data processing and implemented a user-friendly interface with responsive design using Bootstrap and CSS.
-**IP Geolocation Web App:** Developed an IP geolocation web app using HTML, CSS, JavaScript, Bootstrap, OpenStreetMap, Leaflet, and ipFind API, showcasing proficiency in front-end web development, APIs integration, and data visualization.
-**Real-Time Chatroom Web App:** Developed a real-time chatroom web app using HTML, CSS, JavaScript, and Socket.io, featuring a simple interface with a login prompt and Socket.io integration for efficient messaging.
-
--->
-
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm passionate about data analysis, web development, and software development. With a diverse skill set and a strong drive for learning, I strive to create meaningful projects and contribute to the open-source community. Feel free to explore my repositories and reach out for collaboration opportunities.
-
 ## Skills
 - Data Analysis: Python, SQL, Excel, Pandas, Matplotlib
 - Web Development: HTML, CSS, JavaScript, Flask
 - Database: MySQL, PostgreSQL, MongoDB
 - Software Development: Python, VBA, Git
+- Problem-Solving: Analytical skills, Debugging, Troubleshooting
+- Collaboration: Communication, Teamwork, Project Management
+- Self-Motivated: Quick Learner, Proactive, Results-Oriented
+
+## Projects
+- **Middleware CRUD MongoDB Database Web App:** Built a full-stack web app using MongoDB, HTML, CSS, JavaScript, and Express.js to create, list, and delete items from a database. Utilized AJAX and jQuery for efficient data processing and implemented a user-friendly interface with responsive design using Bootstrap and CSS.
+- **IP Geolocation Web App:** Developed an IP geolocation web app using HTML, CSS, JavaScript, Bootstrap, OpenStreetMap, Leaflet, and ipFind API, showcasing proficiency in front-end web development, APIs integration, and data visualization.
+- **Real-Time Chatroom Web App:** Developed a real-time chatroom web app using HTML, CSS, JavaScript, and Socket.io, featuring a simple interface with a login prompt and Socket.io integration for efficient messaging.
+
+-->
+
+# Hi there! 👋
+
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. With a diverse skill set and a strong drive for learning, I strive to create meaningful projects and contribute to the open-source community. Feel free to explore my repositories and reach out for collaboration opportunities. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
+
+## Skills
+- Data Analysis: Python 🐍, SQL 📊, Excel, Pandas 🐼, Matplotlib 📊, NumPy 🧮, Data Analysis & Interpretation 📈, Tableau 📈, Data Visualization 📊
+- Database: MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, Oracle 🏛️, Database Design & Querying 🗃️
+- Programming Languages: JavaScript 🌐, Java ☕, C 📜, VBA 📝
+- Web Development: HTML 📄, CSS 🎨, jQuery 🕹️, Angular 🅰️, Bootstrap 🎩, Flask 🌶️, Express.js 🚂, Ember.js 🔥
+- Software Development: Git, Linux/Bash 🐧, Socket.io 🔌, Leaflet.js 🍃, Geomapping 🗺️
+- DevOps: Docker 🐳, Git 🌿, RDBMS/SQL 🔢, API Development 🌐, AJAX 🔄, Cross-Origin Resource Sharing (CORS) 🌍
 - Problem-Solving: Analytical skills, Debugging, Troubleshooting
 - Collaboration: Communication, Teamwork, Project Management
 - Self-Motivated: Quick Learner, Proactive, Results-Oriented
