@@ -36,10 +36,12 @@ Welcome to my GitHub profile! I am a software developer with a Bachelor of Compu
 Data Analyst | Web Developer | Swimming Instructor | Software Developer
 
 ## Skills
-- Data Analysis: Python, SQL, Excel, Pandas, Matplotlib
-- Web Development: HTML, CSS, JavaScript, Flask
-- Database: MySQL, PostgreSQL, MongoDB
-- Software Development: Python, VBA, Git
+- Data Analysis: Python 🐍, SQL 📊, Excel, Pandas 🐼, Matplotlib 📊, NumPy 🧮, Data Analysis & Interpretation 📈, Tableau 📈, Data Visualization 📊
+- Database: MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, Oracle 🏛️, Database Design & Querying 🗃️
+- Programming Languages: JavaScript 🌐, Java ☕, C 📜, VBA 📝
+- Web Development: HTML 📄, CSS 🎨, jQuery 🕹️, Angular 🅰️, Bootstrap 🎩, Flask 🌶️, Express.js 🚂, Ember.js 🔥
+- Software Development: Git, Linux/Bash 🐧, Socket.io 🔌, Leaflet.js 🍃, Geomapping 🗺️
+- DevOps: Docker 🐳, Git 🌿, RDBMS/SQL 🔢, API Development 🌐, AJAX 🔄, Cross-Origin Resource Sharing (CORS) 🌍
 - Problem-Solving: Analytical skills, Debugging, Troubleshooting
 - Collaboration: Communication, Teamwork, Project Management
 - Self-Motivated: Quick Learner, Proactive, Results-Oriented
@@ -53,7 +55,7 @@ Data Analyst | Web Developer | Swimming Instructor | Software Developer
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. I have a diverse skill set and a strong drive for learning. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 I'm passionate about data analysis, web development, and software development. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects with a diverse skill set and a strong drive for learning. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
 
 ## Skills
 - Data Analysis: Python 🐍, SQL 📊, Excel, Pandas 🐼, Matplotlib 📊, NumPy 🧮, Data Analysis & Interpretation 📈, Tableau 📈, Data Visualization 📊
@@ -62,9 +64,7 @@ Welcome to my GitHub profile! I am a software developer with a Bachelor of Compu
 - Web Development: HTML 📄, CSS 🎨, jQuery 🕹️, Angular 🅰️, Bootstrap 🎩, Flask 🌶️, Express.js 🚂, Ember.js 🔥
 - Software Development: Git, Linux/Bash 🐧, Socket.io 🔌, Leaflet.js 🍃, Geomapping 🗺️
 - DevOps: Docker 🐳, Git 🌿, RDBMS/SQL 🔢, API Development 🌐, AJAX 🔄, Cross-Origin Resource Sharing (CORS) 🌍
-- Problem-Solving: Analytical skills, Debugging, Troubleshooting
-- Collaboration: Communication, Teamwork, Project Management
-- Self-Motivated: Quick Learner, Proactive, Results-Oriented
+- Self-Motivated: Quick Learner, Proactive, Results-Oriented, Problem-Solving, Analytical skills, Debugging, Troubleshooting, Collaboration, Communication, Teamwork, Project Management
 
 ## ⚡ Fun Facts
 - 💻 I enjoy coding and exploring new technologies to expand my horizons.
