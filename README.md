@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
-
 ## 💻 Technologies I Love
 
 - Programming Languages: Python 🐍, JavaScript 🌐, Java ☕, C 📜, VBA 📝,
@@ -39,5 +37,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Jarvis Consulting Developer Stream Projects
 - 🌱 I’m currently learning ... Software Development
 - ⚡ Fun fact: In my freetime I enjoy coding, reading, gaming, soccer, swimming
+
+Welcome to my GitHub profile! I am a software developer with a Bachelor of Computing in Computer Science. 🌟💻 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧 Here's a glimpse into my world:
 
 -->
