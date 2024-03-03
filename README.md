@@ -11,9 +11,7 @@
 
 # Welcome to xlivia's GitHub Wonderland! 🚀
 
-Hey there, fellow coder and adventurer! 👋
-
-I'm Olivia, your coding maestro, bookworm, game hero, soccer fanatic, water explorer, and photography aficionado, all rolled into one! 🪄
+Hello there! 👋 I'm Olivia! 🪄
 
 ## About Me
 
@@ -53,6 +51,8 @@ def my_current_projects():
 
 I'm always up for some coding adventures and collaboration. Feel free to open issues, submit pull requests, or just drop by to say hi! 🙌
 
+<!--
 Now, whether it's diving into code, flipping through the pages of a thrilling book, scoring goals on the soccer field, or capturing the world through a lens, let's embark on exciting adventures together! 💻📚🎮⚽🏊📸
+-->
 
 Happy coding and exploring! 🚀
